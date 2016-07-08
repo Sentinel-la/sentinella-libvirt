@@ -1,0 +1,10 @@
+{
+	"database": {
+		"name": "uwsgi",
+		"duration": "365d",
+		"replication": "1"
+	},
+	"hostname": "localhost",
+	"port": 9797,
+	"frequency": 0.2
+}
