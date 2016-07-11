@@ -1,4 +1,3 @@
-![image](https://raw.githubusercontent.com/tourbillonpy/tourbillon-agent/master/assets/tourbillon_logo_gray.png) 
 #### A Python agent for collecting OpenStack metrics, logs and specs and store them into Sentinel.la. http://sentinel.la
 
 -----
