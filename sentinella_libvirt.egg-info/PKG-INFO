@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: sentinella-libvirt
+Version: 0.1
+Summary: sentinella-libvirt is a Sentinel.la plugin that can collect metrics from libvirt.
+Home-page: https://github.com/Sentinel-la/sentinella-libvirt
+Author: The Sentinel.la Team
+Author-email: francisco@sentinel.la
+License: ASF
+Description: UNKNOWN
+Keywords: monitoring metrics agent openstack nova libvirt
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: System :: Monitoring

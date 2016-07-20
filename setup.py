@@ -16,7 +16,7 @@ if not PY34_PLUS:
 setup(
     name='sentinella-libvirt',
     description='sentinella-libvirt is a Sentinel.la plugin that can collect metrics from libvirt.',
-    version='0.5',
+    version='0.1',
     packages=find_packages(exclude=exclude),
     zip_safe=False,
     namespace_packages=['sentinella'],

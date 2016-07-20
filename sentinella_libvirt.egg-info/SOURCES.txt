@@ -1,0 +1,13 @@
+setup.cfg
+setup.py
+sentinella/__init__.py
+sentinella/libvirt/__init__.py
+sentinella/libvirt/libvirt2/__init__.py
+sentinella/libvirt/libvirt2/libvirt.py
+sentinella_libvirt.egg-info/PKG-INFO
+sentinella_libvirt.egg-info/SOURCES.txt
+sentinella_libvirt.egg-info/dependency_links.txt
+sentinella_libvirt.egg-info/namespace_packages.txt
+sentinella_libvirt.egg-info/not-zip-safe
+sentinella_libvirt.egg-info/requires.txt
+sentinella_libvirt.egg-info/top_level.txt
